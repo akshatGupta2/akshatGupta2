@@ -28,8 +28,8 @@
 <p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=akshatGupta2&" alt="akshatGupta2" /></p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aslaan001&show_icons=true&theme=tokyonight&border_radius=10" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aslaan001&layout=compact&theme=tokyonight&border_radius=10" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ds1a_154001&show_icons=true&theme=tokyonight&border_radius=10" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ds1a_154001&layout=compact&theme=tokyonight&border_radius=10" height="150"/>
 </p>
 
 
